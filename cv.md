@@ -24,6 +24,7 @@ function multiply(a,b){
   return a*b
 }
 ```
+***
 ### Education and work:
 - Samara National Research University 
   - Quality management in mechanical engineering
