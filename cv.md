@@ -1,31 +1,27 @@
-# RSSCHOOL-CV
-
-## __Anastasia Sergienko__
-***
-### Contact information:
+# __Anastasia Sergienko__
+## Contact information:
 - E-mail: anastasiia.sierghiienko.00@mail.ru
 - Telegram: Anastasiia_sierghiienko
 - Discord: Sergienko
 ***
-### About Me:
+## About Me:
 I'm afraid to spend most of my life waiting for the weekend or the end of my work. I want to change my occupation and find something that will fascinate me. I am here to gain knowledge and skills in front-end development.
-
 ***
-### Skills and Proficiency:
+## Skills and Proficiency:
 - HTML
 - CSS
 - Git/GitHub
 - Photoshop
 - Studying JS
 ***
-### Code example:
+## Code example:
 ```
 function multiply(a,b){
   return a*b
 }
 ```
 ***
-### Education and work:
+## Education and work:
 - Samara National Research University 
   - Quality management in mechanical engineering
 - Aviation enterprise
@@ -33,5 +29,5 @@ function multiply(a,b){
 - RS School
   - I am studying now
 ***
-### Languages:
+## Languages:
 English - school level, no practice
